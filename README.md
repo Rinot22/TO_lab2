@@ -1,4 +1,4 @@
-# TO_lab2
+# TO_lab2_Wektory
 Laboratorium #2 z przedmiotu "Technologii Obiektowe"
 
 Treść zadania:
