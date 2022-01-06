@@ -1,3 +1,3 @@
 # Treść zadania
 
-Zaimplementować klasy przedstawione na diagramie UML. Wykorzystać wzorce projektowe Adapter oraz Dekorator.
+Zaimplementować klasy przedstawione na diagramie UML. Użyć wzorców projektowych Adapter oraz Dekorator.
